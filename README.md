@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdul-Gafur
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning computer science
+- 👀 I’m a full stack developer
+- 🌱 A Computer science student
 - 📫 How to reach me on e-mail at...abdulgafurshaattir@gmail.com
 
 <!---
