@@ -17,7 +17,8 @@ You can click the Preview link to take a look at your changes.
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
 
 ## Skills
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+
+![Skills](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 
 ## Random Joke Generator
