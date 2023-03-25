@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Skills
 
-![Skills](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,c,c#,c++,bootstrap,tailwind,git,java,github,dotnet)](https://skillicons.dev)
 
 
 ## Random Joke Generator
