@@ -18,10 +18,9 @@ You can click the Preview link to take a look at your changes.
 
 ## Skills
 
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,c,c#,c++,bootstrap,tailwind,git,java,github,dotnet)](https://skillicons.dev) -->
-- ![Skill1](https://img.shields.io/badge/Skill1-Expert-green)
-- ![Skill2](https://img.shields.io/badge/Skill2-Intermediate-yellow)
-- ![Skill3](https://img.shields.io/badge/Skill3-Beginner-red)
 
 
 ## Random Joke Generator
