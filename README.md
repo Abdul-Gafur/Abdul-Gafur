@@ -18,7 +18,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Skills
 
-[![Python Logo]([URL_TO_PYTHON_LOGO_IMAGE](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png))](https://www.python.org/)
+[![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png)](https://www.python.org/)
+
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,c,c#,c++,bootstrap,tailwind,git,java,github,dotnet)](https://skillicons.dev) -->
 
