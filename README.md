@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Skills
 
-![Python](https://img.shields.io/badge/Python-Expert-blue)
+[![Python Logo](URL_TO_PYTHON_LOGO_IMAGE)](https://www.python.org/)
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,c,c#,c++,bootstrap,tailwind,git,java,github,dotnet)](https://skillicons.dev) -->
 
