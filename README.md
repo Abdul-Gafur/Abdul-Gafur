@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Abdul-Gafur
-I'm a software developer specializing in web development, building exceptional frontend and backend web experiences. I'm from Ghana. Currently, I'm expanding my skill set into Artificial Intellgence (AI) and Machine Learning (ML) to pioneer AI-driven applications and I'm actively seeking job opportunities that align with my passion for innovative technology solutions.
+I'm a software developer specializing in web development, building exceptional frontend and backend web experiences. I'm from Ghana.
+Currently, I'm expanding my skill set into Artificial Intellgence (AI) and Machine Learning (ML) to pioneer AI-driven applications and I'm actively seeking job opportunities that align with my passion for innovative technology solutions.
 - 📫 How to reach me on e-mail ...abdulgafurshaattir@gmail.com
 
 <!---
