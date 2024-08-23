@@ -23,8 +23,8 @@ I’m a **software developer** specializing in **web development**, focused on b
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: https://www.linkedin.com/in/abdul-gafur-saeed-b26434246/(#)
-- **Portfolio**: https://www.ghaf.dev/(#)
+- **LinkedIn**: https://www.linkedin.com/in/abdul-gafur-saeed-b26434246/
+- **Portfolio**: https://www.ghaf.dev/
 - **Email**: [Your Email](mailto:abdulgafurshaattir@gmail.com)
 
 _"Innovating for a better tomorrow through technology."_
