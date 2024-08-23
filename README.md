@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Abdul-Gafur
-- 👀 I’m a full stack developer
-- 🌱 A Computer science student
-- 📫 How to reach me on e-mail at...abdulgafurshaattir@gmail.com
+I'm a software developer specializing in web development, building exceptional frontend and backend web experiences. I'm from Ghana. Currently, I'm expanding my skill set into Artificial Intellgence (AI) and Machine Learning (ML) to pioneer AI-driven applications and I'm actively seeking job opportunities that align with my passion for innovative technology solutions.
+- 📫 How to reach me on e-mail ...abdulgafurshaattir@gmail.com
 
 <!---
 Abdul-Gafur/Abdul-Gafur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
